@@ -1,0 +1,7 @@
+pydantic
+requests
+uvicorn
+pymongo
+gunicorn
+fastapi
+bson
